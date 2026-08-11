@@ -119,7 +119,7 @@ python display.py
 
 <br>
 
-[![Discord Profile](https://lanyard.cnrad.dev/api/1137667373307011192?theme=dark&bg=0d0f18&animated=true&hideActivity=whenNotUsed&hideStatus=false)](https://discord.com/users/1137667373307011192)
+[![Discord Profile](https://lanyard.cnrad.dev/api/1137667373307011192?theme=dark&bg=0d0f18&animatedDecoration=true&hideActivity=whenNotUsed&hideStatus=false)](https://discord.com/users/1137667373307011192)
 
 <br>
 
