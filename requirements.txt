@@ -1,0 +1,5 @@
+# DisPlay requires ZERO mandatory dependencies.
+# It uses Python's standard library (urllib.request) by default.
+#
+# Optional (for slightly faster API responses):
+requests>=2.28.0
